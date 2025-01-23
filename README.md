@@ -9,4 +9,4 @@ Main code is in the .ipynb file.
 
 Link to the full paper: https://docs.google.com/document/d/10CPLfY5Q_HsoepUjo2TtCcpqRQdZkDnQnlQJOvun6-I/edit?usp=sharing
 
-Feel free to share your thoughts on this on my email: faraz.jawed@duke.edu
+Feel free to share your thoughts on this on my email: fmasood@andrew.cmu.edu
